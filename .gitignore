@@ -1,28 +1,39 @@
-# Credenciais — NUNCA commitar
+# Secrets and local configuration
 .env
+.env.*
+!.env.example
 
-# Python
+# Python cache/build artifacts
 __pycache__/
 *.py[cod]
-*.pyo
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
 .venv/
 venv/
 env/
-*.egg-info/
-dist/
-build/
+projeto/
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Parquet local temporário
+# Local data/output artifacts
 lake/
-/tmp/lake/
+*.parquet
 
-# Sistema
+# Local planning documents
+PLANO_ACAO*.md
+plano_acao*.md
+
+# OS/editor noise
 .DS_Store
-Thumbs.db
-
-# IDE
 .vscode/
 .idea/
