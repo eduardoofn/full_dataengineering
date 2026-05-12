@@ -1,4 +1,4 @@
-# 🚀 Pipeline de Engenharia de Dados — Vendas Digital Corporativo
+# 🚀 Pipeline de Engenharia de Dados — Vendas Corporativo
 
 Pipeline ETL completo de ponta a ponta, orquestrado com Apache Airflow, cobrindo ingestão, modelagem dimensional, Data Lake, Data Mart e visualização em dashboard.
 
@@ -233,5 +233,5 @@ A cadeia `endereco → bairro → cidade → estado` pode ter schema variável. 
 **Eduardo** — Especialista em BI, SQL e Engenharia de Dados com 10 anos de experiência.
 Apaixonado por transformar dados brutos em decisões estratégicas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo-blue?logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-black?logo=github)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo-blue?logo=linkedin)](https://linkedin.com/in/eduardoofn)
+[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-black?logo=github)](https://github.com/eduardoofn)
