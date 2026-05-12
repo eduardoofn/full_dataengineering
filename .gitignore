@@ -28,6 +28,7 @@ projeto/
 # Local data/output artifacts
 lake/
 *.parquet
+*.pdf
 
 # Local planning documents
 PLANO_ACAO*.md
